@@ -1,5 +1,6 @@
 # k8s-networking-guide
 
+
 This is a beginner-friendly documentation project that explains Kubernetes networking concepts such as services, load balancing, network security, and observability. The goal is to make cloud-native networking easier to understand through clear explanations, practical examples, and simple diagrams.
 
 ## Kubernetes Networking — A Beginner Guide
@@ -210,4 +211,7 @@ Detailed documentation is available in the `/docs` folder:
 - Networking fundamentals
 - Kubernetes Services
 - Network security basics
+
+=======
+
 
